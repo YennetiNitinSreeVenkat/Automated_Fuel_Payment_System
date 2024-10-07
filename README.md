@@ -6,6 +6,7 @@ Designed and developed an Automated Fuel Payment System using RFID technology to
 //Hello, This is the code to use a 4x4 keypad matrix with and Arduino and show the result on an LCD screen
 //You should wire you keypad from 8to1 (keypad pins) to 9to2 Arduino digital pins
 //SurtrTech
+
 #include <SPI.h>
 #include <MFRC522.h>
 #include<Keypad.h> //The keypad and LCD i2c libraries
